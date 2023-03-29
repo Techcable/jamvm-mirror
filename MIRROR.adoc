@@ -1,0 +1,13 @@
+= JamVM mirror
+:description: A mirror of the original JamVM source.
+
+{description}
+
+WARNING: The upstream project appears inactive. The last commit was in 2015. The last release was 2014.
+
+.Project URLs
+* https://jamvm.sourceforge.net[Homepage] (SourceForge)
+  ** https://sourceforge.net/projects/jamvm/[Summary page]
+  ** https://sourceforge.net/projects/jamvm/files/jamvm/[Release files]
+* https://en.wikipedia.org/wiki/JamVM[Wikipedia page]
+
